@@ -1,0 +1,3 @@
+C:/Users/benav/CLionProjects/University1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/benav/CLionProjects/University1/cmake-build-debug/CMakeFiles/University1.dir
+C:/Users/benav/CLionProjects/University1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

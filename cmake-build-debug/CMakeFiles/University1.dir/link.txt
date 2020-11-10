@@ -1,0 +1,3 @@
+C:\Users\benav\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\University1.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\University1.dir/objects.a @CMakeFiles\University1.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -mwindows -g   -Wl,--whole-archive CMakeFiles\University1.dir/objects.a -Wl,--no-whole-archive  -o University1.exe -Wl,--out-implib,libUniversity1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\University1.dir\linklibs.rsp
